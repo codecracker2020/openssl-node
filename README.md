@@ -17,7 +17,10 @@ After successful execution, you have 2 files in the folder where you ran the abo
     1. server.cert is the self-signed certificate file
     2. server.key is the private key of the certificate
 
+```bash
 https://localhost:3000/greeting
+```
+
 
 If openssl is not installed, the user can install from chocolatey by executing the command:
 
