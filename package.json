@@ -4,7 +4,7 @@
   "description": "Generate SSL with Openssl and run node on https",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "https": "^1.0.0"
   },
   "devDependencies": {},
